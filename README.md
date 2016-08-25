@@ -1,9 +1,7 @@
 # flx-qrcode
 
 ## Install
-```javascript
-meteor add jayuda:flx-qrcode
-```
+add to your project jayuda:flx-qrcode
 
 ## Usage
 HTML template to display qrcode
