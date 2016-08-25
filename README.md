@@ -1,0 +1,2 @@
+# flx-qrcode
+generate qrcode
